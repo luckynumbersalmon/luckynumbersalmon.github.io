@@ -1,3 +1,3 @@
-document.getElementById("test").style.color = "red";
+document.getElementById("text").style.color = "red";
 
 
