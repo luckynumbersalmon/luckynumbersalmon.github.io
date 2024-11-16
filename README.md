@@ -4,6 +4,8 @@
 By definition, there are already enough people to do that.
 >> - G.H. Hardy
 
+![Squirrel eating apple]("images/SquirrelWApple.JPG")
+
 <h2>main</h2>
 
 
