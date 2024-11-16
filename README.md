@@ -4,7 +4,7 @@
 By definition, there are already enough people to do that.
 >> - G.H. Hardy
 
-![Squirrel eating apple](http://images/SquirrelWApple.JPG)
+![Squirrel eating apple](http://luckynumbersalmon.github.io/blob/main/images/SquirrelWApple.JPG)
 <h2>main</h2>
 
 
