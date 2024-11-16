@@ -14,3 +14,6 @@ By definition, there are already enough people to do that.
 <h2>style.css</h2>
 
 <h2>script.js</h2>
+
+
+![Squirrel eating apple](/luckynumbersalmon.github.io/SquirrelWApple.jpg "Squirrel Eating Apple")
