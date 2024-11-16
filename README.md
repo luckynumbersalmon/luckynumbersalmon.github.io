@@ -16,4 +16,4 @@ By definition, there are already enough people to do that.
 <h2>script.js</h2>
 
 
-![Squirrel eating apple](/SquirrelWApple.JPG "Squirrel Eating Apple")
+![Squirrel eating apple](/SquirrelWApple.JPG)
