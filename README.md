@@ -24,8 +24,11 @@ By definition, there are already enough people to do that.
 
 <h6>SUMMARY</h6>
 
-<p align=center>Passionate and versatile broadcast producer with extensive experience in audio production, editing, and live broadcasting. Adept at working under pressure to meet tight deadlines and deliver high-quality content. Skilled in podcast editing, client collaboration, and storytelling, with a strong technical background and creative flair.<br/>
-Highly organized with a proven ability to manage multiple projects simultaneously and drive results. Committed to continuous learning and innovation in the field of audio production.</p>
+<p align=center>Passionate and versatile broadcast producer with extensive experience in audio production, editing, and live broadcasting. <br/>
+Adept at working under pressure to meet tight deadlines and deliver high-quality content. <br/>
+Skilled in podcast editing, client collaboration, and storytelling, with a strong technical background and creative flair.<br/>
+Highly organized with a proven ability to manage multiple projects simultaneously and drive results. 
+Committed to continuous learning and innovation in the field of audio production.</p>
 
 <h6>SKILLS</h6>
 Podcast Editing: Proficient in Adobe Audition, Pro Tools, Audacity; experience with Riverside for remote podcast recording.
@@ -65,18 +68,21 @@ Demonstrated exceptional customer service and communication in a fast-paced envi
 Problem-solved delivery challenges in real-time, including managing weather and traffic issues.
 
 <h6>EDUCATION</h6>
-Greenville Technical College, Greenville, SC
-Associate in Arts / Associate in Science
-Graduation Date: December 2020 | GPA: 3.9
+
+<p align=center>Greenville Technical College, Greenville, SC<br/>
+Associate in Arts / Associate in Science<br/>
+Graduation Date: December 2020 | GPA: 3.9</p>
 
 <h6>HONORS AND ACTIVITIES</h6>
-SCBA STAR Awards, Radio Show of the Year, 2024
-Student Government Association, President, 2018-2020
-Meditation Club, Student Leader, 2019-2020
-Dean’s / President’s List, 2017-2020
-Student Ambassador, 2017
+
+<p align=center>SCBA STAR Awards, Radio Show of the Year, 2024<br/>
+Student Government Association, President, 2018-2020<br/>
+Meditation Club, Student Leader, 2019-2020<br/>
+Dean’s / President’s List, 2017-2020<br/>
+Student Ambassador, 2017</p>
 
 <h6>ADDITIONAL INFORMATION</h6>
+
 <p align=center>Passionate about staying up-to-date with industry trends and best practices in podcasting.<br/>
 Enjoys homebrewing (coffee, beer, kombucha, wine) and exploring new hobbies such as climbing and sound design.<br/>
 A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.</p>
