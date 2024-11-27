@@ -179,6 +179,6 @@ A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off
 
 <p>This is where the bulk of documentation will go, dated, with most recent update on top. For now, this is just place holder text as I continue to flush this sucker out. Will be deleting this 'p' as soon as I begin documentation.</p>
 
-<h2>links</h2>
+<h5>links</h5>
 
 <a href="https://www.facebook.com/share/YMfg3HHo44CMGhSx/" target="_blank">facebook</a>
