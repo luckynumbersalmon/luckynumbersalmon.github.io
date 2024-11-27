@@ -40,32 +40,33 @@ Technical Troubleshooting: Ability to troubleshoot audio issues and resolve them
 Communication: Exceptional written and verbal communication skills, ensuring effective team collaboration and client interactions.
 
 <h6>EXPERIENCE</h6>
-Broadcast Producer
-Audacy Inc., Greenville, SC
-October 2023 – Present
-Produce and edit award-winning radio shows, ensuring high-quality audio output and smooth broadcasting.
-Collaborate closely with talent, producers, and clients to understand content goals and deliver exceptional audio content.
-Manage live broadcasts, handle technical troubleshooting, and maintain audio levels for seamless show execution.
-Develop workflows to streamline production and consistently meet deadlines, improving overall efficiency.
-Create and deploy promotional audio/visual assets for station events and social media, ensuring content resonates with audiences.
-Provide creative input on content structure and sound design, enhancing storytelling and listener engagement.
-Promotional Technician
-Audacy Inc., Greenville, SC
-April 2023 – October 2023
-Assisted in live broadcasts, setting up audio equipment and ensuring smooth on-site execution of shows.
-Provided technical support for broadcasting equipment, troubleshooting issues on the spot.
-Managed client interactions during live events, ensuring their needs were met and expectations exceeded.
-Produced content for social media, including audio and visual assets, to promote station events.
-Floor Associate
-Men’s Wearhouse, Greenville, SC
-October 2022 – March 2023
-Delivered excellent customer service, applying communication skills to resolve customer issues and upsell products.
-Documented customer requests and utilized technological solutions for event and guest information management.
-Delivery Driver
-Domino’s Pizza, Anderson, SC
-February 2021 – October 2022
-Demonstrated exceptional customer service and communication in a fast-paced environment.
-Problem-solved delivery challenges in real-time, including managing weather and traffic issues.
+
+<p align=center>Broadcast Producer<br/>
+Audacy Inc., Greenville, SC<br/>
+October 2023 – Present<br/>
+Produce and edit award-winning radio shows, ensuring high-quality audio output and smooth broadcasting.<br/>
+Collaborate closely with talent, producers, and clients to understand content goals and deliver exceptional audio content.<br/>
+Manage live broadcasts, handle technical troubleshooting, and maintain audio levels for seamless show execution.<br/>
+Develop workflows to streamline production and consistently meet deadlines, improving overall efficiency.<br/>
+Create and deploy promotional audio/visual assets for station events and social media, ensuring content resonates with audiences.<br/>
+Provide creative input on content structure and sound design, enhancing storytelling and listener engagement.<br/>
+Promotional Technician<br/>
+Audacy Inc., Greenville, SC<br/>
+April 2023 – October 2023<br/>
+Assisted in live broadcasts, setting up audio equipment and ensuring smooth on-site execution of shows.<br/>
+Provided technical support for broadcasting equipment, troubleshooting issues on the spot.<br/>
+Managed client interactions during live events, ensuring their needs were met and expectations exceeded.<br/>
+Produced content for social media, including audio and visual assets, to promote station events.<br/>
+Floor Associate<br/>
+Men’s Wearhouse, Greenville, SC<br/>
+October 2022 – March 2023<br/>
+Delivered excellent customer service, applying communication skills to resolve customer issues and upsell products.<br/>
+Documented customer requests and utilized technological solutions for event and guest information management.<br/>
+Delivery Driver<br/>
+Domino’s Pizza, Anderson, SC<br/>
+February 2021 – October 2022<br/>
+Demonstrated exceptional customer service and communication in a fast-paced environment.<br/>
+Problem-solved delivery challenges in real-time, including managing weather and traffic issues.</p>
 
 <h6>EDUCATION</h6>
 
