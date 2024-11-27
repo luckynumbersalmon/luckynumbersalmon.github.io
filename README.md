@@ -72,21 +72,27 @@ Committed to continuous learning and innovation in the field of audio production
 
 <p align=center>April 2023 – October 2023</p>
 
-+ Assisted in live broadcasts, setting up audio equipment and ensuring smooth on-site execution of shows.
-+ Provided technical support for broadcasting equipment, troubleshooting issues on the spot.
-+ Managed client interactions during live events, ensuring their needs were met and expectations exceeded.
++ Assisted in live broadcasts, setting up audio equipment and ensuring smooth on-site execution of shows.<br/>
++ Provided technical support for broadcasting equipment, troubleshooting issues on the spot.<br/>
++ Managed client interactions during live events, ensuring their needs were met and expectations exceeded.<br/>
 + Produced content for social media, including audio and visual assets, to promote station events.
   
 <p align=center><b>Floor Associate</b></p>
+
 <p align=center><i>Men’s Wearhouse, Greenville, SC</i></p>
+
 <p align=center>October 2022 – March 2023</p>
-+ Delivered excellent customer service, applying communication skills to resolve customer issues and upsell products.
+
++ Delivered excellent customer service, applying communication skills to resolve customer issues and upsell products.<br/>
 + Documented customer requests and utilized technological solutions for event and guest information management.
 
 <p align=center><b>Delivery Driver</b></p>
+
 <p align=center><i>Domino’s Pizza, Anderson, SC</i></p>
+
 <p align=center>February 2021 – October 2022</p>
-+ Demonstrated exceptional customer service and communication in a fast-paced environment.
+
++ Demonstrated exceptional customer service and communication in a fast-paced environment.<br/>
 + Problem-solved delivery challenges in real-time, including managing weather and traffic issues.
 
 <h6>EDUCATION</h6>
