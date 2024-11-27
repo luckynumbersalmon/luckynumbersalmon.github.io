@@ -8,6 +8,8 @@ By definition, there are already enough people to do that.
 
 <h2>code</h2>
 
+<h3>HTML</h3>
+
 <h4>index.html</h4>
 
 ```
@@ -35,6 +37,8 @@ By definition, there are already enough people to do that.
 </html>
 ```
 
+<h3>CSS</h3>
+
 <h4>style.css</h4>
 
 ```
@@ -56,7 +60,13 @@ p {
   }
 ```
 
+<h3>Javascript</h3>
+
 <h4>script.js</h4>
+
+```
+document.getElementById("text").style.color
+```
 
 <h2>resume</h2>
 
