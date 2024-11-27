@@ -8,8 +8,29 @@ By definition, there are already enough people to do that.
 
 <h2>code</h2>
 
-<h4>index.html</h4>
+'<h4>index.html</h4>
+<!DOCTYPE html>
 
+<html lang="en">
+  
+<head>
+  <meta charset="utf-8">
+  <title>The One & Only Profolio</title>
+  <link href="style.css" rel="stylesheet"/>
+</head>
+  
+<body>
+  
+  <header>
+    <h1 id="text">The original Profolio&#8482;</h1>
+  </header>
+  <p>This is 100% a work in progress. But, if you ask for a website, this is what I got for right now. Ta-da!</p>
+  <p>I do apologize if you were expecting more. - it will be here one day. For now, please, enjoy this picture I took of a squirrel eating an apple.</p>
+<img id="cute" src="https://raw.githubusercontent.com/luckynumbersalmon/luckynumbersalmon.github.io/main/images/SquirrelWApple.JPG" alt="Squirrel eating apple">
+<script src="script.js"></script>
+</body>
+  
+</html>'
 <h4>style.css</h4>
 
 <h4>script.js</h4>
