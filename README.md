@@ -98,18 +98,19 @@ Graduation Date: December 2020 | GPA: 3.9</p>
 <h6>HONORS AND ACTIVITIES</h6>
 
 <p align=center>SCBA STAR Awards, Radio Show of the Year, 2024<br/>
+  °°°<br/>
 Student Government Association, President, 2018-2020<br/>
-  □□□<br/>
+  °°°<br/>
 Meditation Club, Student Leader, 2019-2020<br/>
-  □□□<br/>
+  °°°<br/>
 Dean’s / President’s List, 2017-2020<br/>
-  □□□<br/>
+  °°°<br/>
 Student Ambassador, 2017</p>
 
 <h6>ADDITIONAL INFORMATION</h6>
 
 <p align=center>Passionate about staying up-to-date with industry trends and best practices in podcasting.<br/>
-  °°°<br/>
+  •••<br/>
 Enjoys homebrewing (coffee, beer, kombucha, wine) and exploring new hobbies such as climbing and sound design.<br/>
-  °°°<br/>
+  •••<br/>
 A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.</p>
