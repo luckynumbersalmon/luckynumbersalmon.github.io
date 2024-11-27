@@ -18,9 +18,9 @@ By definition, there are already enough people to do that.
 
 <h2>resume</h2>
 
-Will A.
+<center>Will A.
 Greenville, SC
-:Email: computationmedia@gmail.com
+computationmedia@gmail.com
 
 SUMMARY
 Passionate and versatile broadcast producer with extensive experience in audio production, editing, and live broadcasting. Adept at working under pressure to meet tight deadlines and deliver high-quality content. Skilled in podcast editing, client collaboration, and storytelling, with a strong technical background and creative flair. Highly organized with a proven ability to manage multiple projects simultaneously and drive results. Committed to continuous learning and innovation in the field of audio production.
@@ -77,4 +77,4 @@ Student Ambassador, 2017
 ADDITIONAL INFORMATION
 Passionate about staying up-to-date with industry trends and best practices in podcasting.
 Enjoys homebrewing (coffee, beer, kombucha, wine) and exploring new hobbies such as climbing and sound design.
-A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.
+A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.</center>
