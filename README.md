@@ -183,8 +183,8 @@ A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off
 
 <table>
   <tr>
-    <td><a href="https://www.facebook.com/share/YMfg3HHo44CMGhSx/" target="_blank">👍 facebook</a></td>
-    <td><a href="https://www.instagram.com/covert_assistant" target="_blank">📷 insta</a></td>
-      <td><a href="https://www.soundcloud.com/hunnidtrill" target="_blank">🔊 soundcloud</a></td>
+    <td align=center><a href="https://www.facebook.com/share/YMfg3HHo44CMGhSx/" target="_blank">👍 facebook</a></td>
+    <td align=center><a href="https://www.instagram.com/covert_assistant" target="_blank">📷 insta</a></td>
+      <td align=center><a href="https://www.soundcloud.com/hunnidtrill" target="_blank">🔊 soundcloud</a></td>
   </tr>
 </table>
