@@ -37,6 +37,25 @@ By definition, there are already enough people to do that.
 
 <h4>style.css</h4>
 
+```
+* {
+    background-color: #000000;
+  }
+body {
+    border-style: solid;
+    border-color: #ffffff;
+h1 {
+    color: #ffffff; 
+  }
+p {
+    color: #ffffff;
+}
+#cute {
+    height: 20%;
+    width: 20%;
+  }
+```
+
 <h4>script.js</h4>
 
 <h2>resume</h2>
