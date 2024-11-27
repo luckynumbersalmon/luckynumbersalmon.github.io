@@ -77,6 +77,6 @@ Dean’s / President’s List, 2017-2020
 Student Ambassador, 2017
 
 <h6>ADDITIONAL INFORMATION</h6>
-Passionate about staying up-to-date with industry trends and best practices in podcasting.
-Enjoys homebrewing (coffee, beer, kombucha, wine) and exploring new hobbies such as climbing and sound design.
-A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.
+<p align=center>Passionate about staying up-to-date with industry trends and best practices in podcasting.<br/>
+Enjoys homebrewing (coffee, beer, kombucha, wine) and exploring new hobbies such as climbing and sound design.<br/>
+A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.</p>
