@@ -42,10 +42,14 @@ Committed to continuous learning and innovation in the field of audio production
   <p align=center>Extensive experience in recording, editing, mixing, and mastering audio content for live and pre-recorded shows.</p>
 * Collaboration & Client Management:
   <p align=center> Skilled in working with producers, hosts, and clients to understand goals, manage expectations, and incorporate feedback into final products.</p>
-Creative Content Creation: Strong editorial eye with the ability to shape content direction, narrative structure, and sound design.
-Project Management: Experienced in using project management tools like Wrike to organize tasks, prioritize deadlines, and ensure efficient workflow.
-Technical Troubleshooting: Ability to troubleshoot audio issues and resolve them in real-time, ensuring smooth and seamless audio production.
-Communication: Exceptional written and verbal communication skills, ensuring effective team collaboration and client interactions.
+* Creative Content Creation:
+  <p align=center>Strong editorial eye with the ability to shape content direction, narrative structure, and sound design.</p>
+* Project Management:
+  <p align=center>Experienced in using project management tools like Wrike to organize tasks, prioritize deadlines, and ensure efficient workflow.</p>
+* Technical Troubleshooting:
+  <p align=center>Ability to troubleshoot audio issues and resolve them in real-time, ensuring smooth and seamless audio production.</p>
+* Communication:
+  <p align=center>Exceptional written and verbal communication skills, ensuring effective team collaboration and client interactions.</p>
 
 <h6>EXPERIENCE</h6>
 
