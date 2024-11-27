@@ -24,10 +24,10 @@ By definition, there are already enough people to do that.
 
 <h6>SUMMARY</h6>
 
-Passionate and versatile broadcast producer with extensive experience in audio production, editing, and live broadcasting. Adept at working under pressure to meet tight deadlines and deliver high-quality content. Skilled in podcast editing, client collaboration, and storytelling, with a strong technical background and creative flair.<br/>
-Highly organized with a proven ability to manage multiple projects simultaneously and drive results. Committed to continuous learning and innovation in the field of audio production.<br/>
+<p align=center>Passionate and versatile broadcast producer with extensive experience in audio production, editing, and live broadcasting. Adept at working under pressure to meet tight deadlines and deliver high-quality content. Skilled in podcast editing, client collaboration, and storytelling, with a strong technical background and creative flair.<br/>
+Highly organized with a proven ability to manage multiple projects simultaneously and drive results. Committed to continuous learning and innovation in the field of audio production.</p>
 
-SKILLS<br/>
+<h6>SKILLS</h6>
 Podcast Editing: Proficient in Adobe Audition, Pro Tools, Audacity; experience with Riverside for remote podcast recording.
 Audio Production: Extensive experience in recording, editing, mixing, and mastering audio content for live and pre-recorded shows.
 Collaboration & Client Management: Skilled in working with producers, hosts, and clients to understand goals, manage expectations, and incorporate feedback into final products.
@@ -36,7 +36,7 @@ Project Management: Experienced in using project management tools like Wrike to 
 Technical Troubleshooting: Ability to troubleshoot audio issues and resolve them in real-time, ensuring smooth and seamless audio production.
 Communication: Exceptional written and verbal communication skills, ensuring effective team collaboration and client interactions.
 
-EXPERIENCE
+<h6>EXPERIENCE</h6>
 Broadcast Producer
 Audacy Inc., Greenville, SC
 October 2023 – Present
@@ -64,19 +64,19 @@ February 2021 – October 2022
 Demonstrated exceptional customer service and communication in a fast-paced environment.
 Problem-solved delivery challenges in real-time, including managing weather and traffic issues.
 
-EDUCATION
+<h6>EDUCATION</h6>
 Greenville Technical College, Greenville, SC
 Associate in Arts / Associate in Science
 Graduation Date: December 2020 | GPA: 3.9
 
-HONORS AND ACTIVITIES
+<h6>HONORS AND ACTIVITIES</h6>
 SCBA STAR Awards, Radio Show of the Year, 2024
 Student Government Association, President, 2018-2020
 Meditation Club, Student Leader, 2019-2020
 Dean’s / President’s List, 2017-2020
 Student Ambassador, 2017
 
-ADDITIONAL INFORMATION
+<h6>ADDITIONAL INFORMATION</h6>
 Passionate about staying up-to-date with industry trends and best practices in podcasting.
 Enjoys homebrewing (coffee, beer, kombucha, wine) and exploring new hobbies such as climbing and sound design.
-A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.</p>
+A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.
