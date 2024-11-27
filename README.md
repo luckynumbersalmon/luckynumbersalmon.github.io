@@ -41,9 +41,9 @@ Communication: Exceptional written and verbal communication skills, ensuring eff
 
 <h6>EXPERIENCE</h6>
 
-<p align=center>Broadcast Producer</p>
+<p align=center><b>Broadcast Producer</b></p>
 
-<p align=center>Audacy Inc., Greenville, SC</p>
+<p align=center><i>Audacy Inc., Greenville, SC</i></p>
   
 <p align=center>October 2023 – Present</p>
 
