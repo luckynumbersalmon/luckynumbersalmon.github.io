@@ -11,7 +11,7 @@ By definition, there are already enough people to do that.
 <h3>HTML</h3>
 
 ><h4>index.html</h4>
->>
+
 ```
 <!DOCTYPE html>
 
