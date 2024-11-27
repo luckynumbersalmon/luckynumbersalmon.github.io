@@ -18,7 +18,7 @@ By definition, there are already enough people to do that.
 
 <h2>resume</h2>
 
-<center>Will A.
+<center>Will A.<br/>
 Greenville, SC
 computationmedia@gmail.com
 
