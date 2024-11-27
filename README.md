@@ -8,7 +8,8 @@ By definition, there are already enough people to do that.
 
 <h2>code</h2>
 
-'<h4>index.html</h4>
+```
+<h4>index.html</h4>
 <!DOCTYPE html>
 
 <html lang="en">
@@ -30,7 +31,8 @@ By definition, there are already enough people to do that.
 <script src="script.js"></script>
 </body>
   
-</html>'
+</html>
+```
 <h4>style.css</h4>
 
 <h4>script.js</h4>
