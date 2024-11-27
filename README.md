@@ -30,7 +30,8 @@ Adept at working under pressure to meet tight deadlines and deliver high-quality
   ○○○<br/>
 Skilled in podcast editing, client collaboration, and storytelling, with a strong technical background and creative flair.<br/>
   ○○○<br/>
-Highly organized with a proven ability to manage multiple projects simultaneously and drive results. 
+Highly organized with a proven ability to manage multiple projects simultaneously and drive results.<br/>
+  ○○○<br/>
 Committed to continuous learning and innovation in the field of audio production.</p>
 
 <h6>SKILLS</h6>
