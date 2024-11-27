@@ -18,11 +18,12 @@ By definition, there are already enough people to do that.
 
 <h2>resume</h2>
 
-<p align=center><h3>Will A.</h3><br/>
-<h4>Greenville, SC</h4><br/>
-<h5>computationmedia@gmail.com</h5><br/>
+<p align=center><h3>Will A.</h3>
+<h4>Greenville, SC</h4>
+<h5>computationmedia@gmail.com</h5>
 
-<h6>SUMMARY</h6><br/>
+<h6>SUMMARY</h6>
+
 Passionate and versatile broadcast producer with extensive experience in audio production, editing, and live broadcasting. Adept at working under pressure to meet tight deadlines and deliver high-quality content. Skilled in podcast editing, client collaboration, and storytelling, with a strong technical background and creative flair.<br/>
 Highly organized with a proven ability to manage multiple projects simultaneously and drive results. Committed to continuous learning and innovation in the field of audio production.<br/>
 
