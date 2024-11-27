@@ -19,13 +19,14 @@ By definition, there are already enough people to do that.
 <h2>resume</h2>
 
 <center>Will A.<br/>
-Greenville, SC
-computationmedia@gmail.com
+Greenville, SC<br/>
+computationmedia@gmail.com<br/>
 
-SUMMARY
-Passionate and versatile broadcast producer with extensive experience in audio production, editing, and live broadcasting. Adept at working under pressure to meet tight deadlines and deliver high-quality content. Skilled in podcast editing, client collaboration, and storytelling, with a strong technical background and creative flair. Highly organized with a proven ability to manage multiple projects simultaneously and drive results. Committed to continuous learning and innovation in the field of audio production.
+SUMMARY<br/>
+Passionate and versatile broadcast producer with extensive experience in audio production, editing, and live broadcasting. Adept at working under pressure to meet tight deadlines and deliver high-quality content. Skilled in podcast editing, client collaboration, and storytelling, with a strong technical background and creative flair.<br/>
+Highly organized with a proven ability to manage multiple projects simultaneously and drive results. Committed to continuous learning and innovation in the field of audio production.<br/>
 
-SKILLS
+SKILLS<br/>
 Podcast Editing: Proficient in Adobe Audition, Pro Tools, Audacity; experience with Riverside for remote podcast recording.
 Audio Production: Extensive experience in recording, editing, mixing, and mastering audio content for live and pre-recorded shows.
 Collaboration & Client Management: Skilled in working with producers, hosts, and clients to understand goals, manage expectations, and incorporate feedback into final products.
