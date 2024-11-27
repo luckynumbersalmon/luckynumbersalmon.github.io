@@ -6,13 +6,13 @@ By definition, there are already enough people to do that.
 
 ![Squirrel eating apple](images/SquirrelWApple.JPG)
 
-<h2>code</h2>>
+<h2>code</h2>
 
-<h3>index.html</h3>
+<h4>index.html</h4>
 
-<h3>style.css</h3>
+<h4>style.css</h4>
 
-<h3>script.js</h3>
+<h4>script.js</h4>
 
 <h2>resume</h2>
 
