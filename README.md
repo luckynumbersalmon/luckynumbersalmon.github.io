@@ -41,17 +41,18 @@ Communication: Exceptional written and verbal communication skills, ensuring eff
 
 <h6>EXPERIENCE</h6>
 
-<p align=center>Broadcast Producer
-  -----------:
-Audacy Inc., Greenville, SC
-  ----------:
-October 2023 – Present
-Produce and edit award-winning radio shows, ensuring high-quality audio output and smooth broadcasting.<br/>
-Collaborate closely with talent, producers, and clients to understand content goals and deliver exceptional audio content.<br/>
-Manage live broadcasts, handle technical troubleshooting, and maintain audio levels for seamless show execution.<br/>
-Develop workflows to streamline production and consistently meet deadlines, improving overall efficiency.<br/>
-Create and deploy promotional audio/visual assets for station events and social media, ensuring content resonates with audiences.<br/>
-Provide creative input on content structure and sound design, enhancing storytelling and listener engagement.<br/>
+<p align=center>Broadcast Producer<br/>
+
+Audacy Inc., Greenville, SC<br/>
+  
+October 2023 – Present<br/>
+
++ Produce and edit award-winning radio shows, ensuring high-quality audio output and smooth broadcasting.<br/>
++ Collaborate closely with talent, producers, and clients to understand content goals and deliver exceptional audio content.<br/>
++ Manage live broadcasts, handle technical troubleshooting, and maintain audio levels for seamless show execution.<br/>
++ Develop workflows to streamline production and consistently meet deadlines, improving overall efficiency.<br/>
++ Create and deploy promotional audio/visual assets for station events and social media, ensuring content resonates with audiences.<br/>
++ Provide creative input on content structure and sound design, enhancing storytelling and listener engagement.<br/>
 Promotional Technician<br/>
 Audacy Inc., Greenville, SC<br/>
 April 2023 – October 2023<br/>
