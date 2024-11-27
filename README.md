@@ -8,7 +8,7 @@ By definition, there are already enough people to do that.
 
 <h2>main</h2>
 
-
+<p>This is where the bulk of documentation will go, dated, with most recent update on top. For now, this is just place holder text as I continue to flush this sucker out. Will be deleting this 'p' as soon as I begin documentation.</p>
 
 <h2>index.html</h2>
 
