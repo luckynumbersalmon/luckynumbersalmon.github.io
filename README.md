@@ -181,4 +181,8 @@ A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off
 
 <h5>links</h5>
 
-<a href="https://www.facebook.com/share/YMfg3HHo44CMGhSx/" target="_blank">facebook</a>
+<a href="https://www.facebook.com/share/YMfg3HHo44CMGhSx/" target="_blank">👍facebook</a>
+
+<a href="https://www.instagram.com/covert_assistant" target="_blank">📷insta</a>
+
+<a href="https://www.soundcloud.com/hunnidtrill" target="_blank">🔊soundcloud</a>
