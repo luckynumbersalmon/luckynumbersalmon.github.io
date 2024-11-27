@@ -18,7 +18,7 @@ By definition, there are already enough people to do that.
 
 <h2>resume</h2>
 
-<center>Will A.<br/>
+<p align=center>Will A.<br/>
 Greenville, SC<br/>
 computationmedia@gmail.com<br/>
 
@@ -78,4 +78,4 @@ Student Ambassador, 2017
 ADDITIONAL INFORMATION
 Passionate about staying up-to-date with industry trends and best practices in podcasting.
 Enjoys homebrewing (coffee, beer, kombucha, wine) and exploring new hobbies such as climbing and sound design.
-A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.</center>
+A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.</p>
