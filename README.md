@@ -64,14 +64,19 @@ Committed to continuous learning and innovation in the field of audio production
 + Manage live broadcasts, handle technical troubleshooting, and maintain audio levels for seamless show execution.<br/>
 + Develop workflows to streamline production and consistently meet deadlines, improving overall efficiency.<br/>
 + Create and deploy promotional audio/visual assets for station events and social media, ensuring content resonates with audiences.<br/>
-+ Provide creative input on content structure and sound design, enhancing storytelling and listener engagement.<br/>
-Promotional Technician<br/>
-Audacy Inc., Greenville, SC<br/>
-April 2023 – October 2023<br/>
-Assisted in live broadcasts, setting up audio equipment and ensuring smooth on-site execution of shows.<br/>
-Provided technical support for broadcasting equipment, troubleshooting issues on the spot.<br/>
-Managed client interactions during live events, ensuring their needs were met and expectations exceeded.<br/>
-Produced content for social media, including audio and visual assets, to promote station events.<br/>
++ Provide creative input on content structure and sound design, enhancing storytelling and listener engagement.
+  
+<p align=center><b>Promotional Technician</b></p>
+
+<p align=center><i>Audacy Inc., Greenville, SC</i></p>
+
+<p align=center>April 2023 – October 2023</p>
+
++ Assisted in live broadcasts, setting up audio equipment and ensuring smooth on-site execution of shows.
++ Provided technical support for broadcasting equipment, troubleshooting issues on the spot.
++ Managed client interactions during live events, ensuring their needs were met and expectations exceeded.
++ Produced content for social media, including audio and visual assets, to promote station events.
+  
 Floor Associate<br/>
 Men’s Wearhouse, Greenville, SC<br/>
 October 2022 – March 2023<br/>
