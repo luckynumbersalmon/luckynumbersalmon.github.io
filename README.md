@@ -37,9 +37,9 @@ By definition, there are already enough people to do that.
 </html>
 ```
 
-<h3>CSS</h3>
+><h3>CSS</h3>
 
-<h4>style.css</h4>
+>><h4>style.css</h4>
 
 ```
 * {
@@ -60,9 +60,9 @@ p {
   }
 ```
 
-<h3>Javascript</h3>
+><h3>Javascript</h3>
 
-<h4>script.js</h4>
+>><h4>script.js</h4>
 
 ```
 document.getElementById("text").style.color
