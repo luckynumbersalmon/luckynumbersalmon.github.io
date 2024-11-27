@@ -91,7 +91,8 @@ Committed to continuous learning and innovation in the field of audio production
 
 <h6>EDUCATION</h6>
 
-<p align=center>Greenville Technical College, Greenville, SC<br/>
+<p align=center>Greenville Technical College<br/>
+Greenville, SC<br/>
 Associate in Arts / Associate in Science<br/>
 Graduation Date: December 2020<br/>
 GPA: 3.9</p>
