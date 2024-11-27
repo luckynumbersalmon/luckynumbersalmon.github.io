@@ -41,11 +41,11 @@ Communication: Exceptional written and verbal communication skills, ensuring eff
 
 <h6>EXPERIENCE</h6>
 
-<p align=center>Broadcast Producer<br/>
+<p align=center>Broadcast Producer</p>
 
-Audacy Inc., Greenville, SC<br/>
+<p align=center>Audacy Inc., Greenville, SC</p>
   
-October 2023 – Present<br/></p>
+<p align=center>October 2023 – Present</p>
 
 + Produce and edit award-winning radio shows, ensuring high-quality audio output and smooth broadcasting.<br/>
 + Collaborate closely with talent, producers, and clients to understand content goals and deliver exceptional audio content.<br/>
