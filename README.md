@@ -18,9 +18,9 @@ By definition, there are already enough people to do that.
 
 <h2>resume</h2>
 
-<p align=center><h3>Will A.</h3>
-<h4>Greenville, SC</h4>
-<h5>computationmedia@gmail.com</h5>
+<h3 align=center>Will A.</h3>
+<h4 align=center>Greenville, SC</h4>
+<h5 align=center>computationmedia@gmail.com</h5>
 
 <h6>SUMMARY</h6>
 
