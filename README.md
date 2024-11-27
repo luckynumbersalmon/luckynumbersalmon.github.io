@@ -77,16 +77,17 @@ Committed to continuous learning and innovation in the field of audio production
 + Managed client interactions during live events, ensuring their needs were met and expectations exceeded.
 + Produced content for social media, including audio and visual assets, to promote station events.
   
-Floor Associate<br/>
-Men’s Wearhouse, Greenville, SC<br/>
-October 2022 – March 2023<br/>
-Delivered excellent customer service, applying communication skills to resolve customer issues and upsell products.<br/>
-Documented customer requests and utilized technological solutions for event and guest information management.<br/>
-Delivery Driver<br/>
-Domino’s Pizza, Anderson, SC<br/>
-February 2021 – October 2022<br/>
-Demonstrated exceptional customer service and communication in a fast-paced environment.<br/>
-Problem-solved delivery challenges in real-time, including managing weather and traffic issues.
+<p align=center><b>Floor Associate</b></p>
+<p align=center><i>Men’s Wearhouse, Greenville, SC</i></p>
+<p align=center>October 2022 – March 2023</p>
++ Delivered excellent customer service, applying communication skills to resolve customer issues and upsell products.
++ Documented customer requests and utilized technological solutions for event and guest information management.
+
+<p align=center><b>Delivery Driver</b></p>
+<p align=center><i>Domino’s Pizza, Anderson, SC</i></p>
+<p align=center>February 2021 – October 2022</p>
++ Demonstrated exceptional customer service and communication in a fast-paced environment.
++ Problem-solved delivery challenges in real-time, including managing weather and traffic issues.
 
 <h6>EDUCATION</h6>
 
@@ -98,12 +99,17 @@ Graduation Date: December 2020 | GPA: 3.9</p>
 
 <p align=center>SCBA STAR Awards, Radio Show of the Year, 2024<br/>
 Student Government Association, President, 2018-2020<br/>
+  □□□<br/>
 Meditation Club, Student Leader, 2019-2020<br/>
+  □□□<br/>
 Dean’s / President’s List, 2017-2020<br/>
+  □□□<br/>
 Student Ambassador, 2017</p>
 
 <h6>ADDITIONAL INFORMATION</h6>
 
 <p align=center>Passionate about staying up-to-date with industry trends and best practices in podcasting.<br/>
+  °°°<br/>
 Enjoys homebrewing (coffee, beer, kombucha, wine) and exploring new hobbies such as climbing and sound design.<br/>
+  °°°<br/>
 A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.</p>
