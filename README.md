@@ -181,4 +181,4 @@ A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off
 
 <h2>links</h2>
 
-https://www.facebook.com/share/YMfg3HHo44CMGhSx/
+<a href="https://www.facebook.com/share/YMfg3HHo44CMGhSx/" target="_blank">facebook</a>
