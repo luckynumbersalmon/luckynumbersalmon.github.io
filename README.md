@@ -187,4 +187,8 @@ A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off
     <td align=center><a href="https://www.instagram.com/covert_assistant" target="_blank">📷 insta</a></td>
       <td align=center><a href="https://www.soundcloud.com/hunnidtrill" target="_blank">🔊 soundcloud</a></td>
   </tr>
+  <tr> <td align=center><a href="https://youtube.com/@whatanisoar" target="_blank">🎥 YouTube</td>
+    <td align=center><a href="https://x.com/ProducerWill_E" target="_blank">❌️ X/itter</td>
+      <td align=center><a href="https://m.twitch.tv/producer_will_e" target="_blank">🎮 Twitch</a></td>
+  </tr>
 </table>
