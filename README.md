@@ -6,15 +6,13 @@ By definition, there are already enough people to do that.
 
 ![Squirrel eating apple](images/SquirrelWApple.JPG)
 
-<h2>main</h2>
+<h2>code</h2>>
 
-<p>This is where the bulk of documentation will go, dated, with most recent update on top. For now, this is just place holder text as I continue to flush this sucker out. Will be deleting this 'p' as soon as I begin documentation.</p>
+<h3>index.html</h3>
 
-<h2>index.html</h2>
+<h3>style.css</h3>
 
-<h2>style.css</h2>
-
-<h2>script.js</h2>
+<h3>script.js</h3>
 
 <h2>resume</h2>
 
@@ -122,3 +120,7 @@ Student Ambassador, 2017</p>
 Enjoys homebrewing (coffee, beer, kombucha, wine) and exploring new hobbies such as climbing and sound design.<br/>
   •••<br/>
 A proud dog parent to Ada, my Shepard mix, who keeps me grounded during time off.</p>
+
+<h2>main</h2>
+
+<p>This is where the bulk of documentation will go, dated, with most recent update on top. For now, this is just place holder text as I continue to flush this sucker out. Will be deleting this 'p' as soon as I begin documentation.</p>
