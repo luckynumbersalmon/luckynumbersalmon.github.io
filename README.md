@@ -45,7 +45,7 @@ Communication: Exceptional written and verbal communication skills, ensuring eff
 
 Audacy Inc., Greenville, SC<br/>
   
-October 2023 – Present<br/>
+October 2023 – Present<br/></p>
 
 + Produce and edit award-winning radio shows, ensuring high-quality audio output and smooth broadcasting.<br/>
 + Collaborate closely with talent, producers, and clients to understand content goals and deliver exceptional audio content.<br/>
@@ -69,7 +69,7 @@ Delivery Driver<br/>
 Domino’s Pizza, Anderson, SC<br/>
 February 2021 – October 2022<br/>
 Demonstrated exceptional customer service and communication in a fast-paced environment.<br/>
-Problem-solved delivery challenges in real-time, including managing weather and traffic issues.</p>
+Problem-solved delivery challenges in real-time, including managing weather and traffic issues.
 
 <h6>EDUCATION</h6>
 
