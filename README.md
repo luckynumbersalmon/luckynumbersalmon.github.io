@@ -89,15 +89,13 @@ Committed to continuous learning and innovation in the field of audio production
 <h6>SKILLS</h6>
 
 * Podcast Editing:
-  <p align=center>Proficient in Adobe Audition, Pro Tools, Audacity; experience with Riverside for remote podcast recording.</p>
+  <p align=center>Proficient in Adobe Audition, Pro Tools, Audacity; experience with tools such as Riverside for remote podcast recording.</p>
 * Audio Production:
   <p align=center>Extensive experience in recording, editing, mixing, and mastering audio content for live and pre-recorded shows.</p>
 * Collaboration & Client Management:
   <p align=center> Skilled in working with producers, hosts, and clients to understand goals, manage expectations, and incorporate feedback into final products.</p>
 * Creative Content Creation:
   <p align=center>Strong editorial eye with the ability to shape content direction, narrative structure, and sound design.</p>
-* Project Management:
-  <p align=center>Experienced in using project management tools like Wrike to organize tasks, prioritize deadlines, and ensure efficient workflow.</p>
 * Technical Troubleshooting:
   <p align=center>Ability to troubleshoot audio issues and resolve them in real-time, ensuring smooth and seamless audio production.</p>
 * Communication:
